@@ -46,4 +46,16 @@ DSA question
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nainsi587/leedcode/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/nainsi587/leedcode/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/nainsi587/leedcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/nainsi587/leedcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
