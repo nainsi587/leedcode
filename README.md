@@ -10,6 +10,7 @@ DSA question
 | [0004-median-of-two-sorted-arrays](https://github.com/nainsi587/leedcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/nainsi587/leedcode/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nainsi587/leedcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ DSA question
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nainsi587/leedcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nainsi587/leedcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -27,6 +29,7 @@ DSA question
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/nainsi587/leedcode/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nainsi587/leedcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
