@@ -9,6 +9,7 @@ DSA question
 | [0001-two-sum](https://github.com/nainsi587/leedcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nainsi587/leedcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/nainsi587/leedcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/nainsi587/leedcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nainsi587/leedcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nainsi587/leedcode/tree/master/0283-move-zeroes) |
@@ -26,6 +27,7 @@ DSA question
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nainsi587/leedcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/nainsi587/leedcode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +67,8 @@ DSA question
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/nainsi587/leedcode/tree/master/0643-maximum-average-subarray-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/nainsi587/leedcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
