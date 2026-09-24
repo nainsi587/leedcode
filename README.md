@@ -63,6 +63,7 @@ DSA question
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/nainsi587/leedcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/nainsi587/leedcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/nainsi587/leedcode/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
@@ -76,6 +77,7 @@ DSA question
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/nainsi587/leedcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nainsi587/leedcode/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/nainsi587/leedcode/tree/master/0707-design-linked-list) |
 ## Stack
