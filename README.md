@@ -77,8 +77,13 @@ DSA question
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/nainsi587/leedcode/tree/master/0234-palindrome-linked-list) |
+| [0707-design-linked-list](https://github.com/nainsi587/leedcode/tree/master/0707-design-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/nainsi587/leedcode/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/nainsi587/leedcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
