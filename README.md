@@ -34,6 +34,7 @@ DSA question
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/nainsi587/leedcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nainsi587/leedcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/nainsi587/leedcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nainsi587/leedcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -63,6 +64,7 @@ DSA question
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nainsi587/leedcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/nainsi587/leedcode/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,4 +73,12 @@ DSA question
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nainsi587/leedcode/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/nainsi587/leedcode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/nainsi587/leedcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
