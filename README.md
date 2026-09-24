@@ -36,6 +36,7 @@ DSA question
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nainsi587/leedcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/nainsi587/leedcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nainsi587/leedcode/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/nainsi587/leedcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ DSA question
 | [0206-reverse-linked-list](https://github.com/nainsi587/leedcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nainsi587/leedcode/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/nainsi587/leedcode/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/nainsi587/leedcode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
