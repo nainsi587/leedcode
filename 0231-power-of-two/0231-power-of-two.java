@@ -3,7 +3,7 @@ class Solution {
         if(n<1){
             return false;
         }
-        if(n==1){
+        if(n==0){
             return true;
         }else{   
             while(n%2==0){
