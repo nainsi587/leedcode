@@ -12,6 +12,7 @@ DSA question
 | [0053-maximum-subarray](https://github.com/nainsi587/leedcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/nainsi587/leedcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nainsi587/leedcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/nainsi587/leedcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nainsi587/leedcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/nainsi587/leedcode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
@@ -39,6 +40,7 @@ DSA question
 | [0141-linked-list-cycle](https://github.com/nainsi587/leedcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nainsi587/leedcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nainsi587/leedcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/nainsi587/leedcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/nainsi587/leedcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nainsi587/leedcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/nainsi587/leedcode/tree/master/0876-middle-of-the-linked-list) |
@@ -61,6 +63,7 @@ DSA question
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/nainsi587/leedcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/nainsi587/leedcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
