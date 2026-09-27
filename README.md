@@ -14,6 +14,7 @@ DSA question
 | [0075-sort-colors](https://github.com/nainsi587/leedcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nainsi587/leedcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nainsi587/leedcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/nainsi587/leedcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/nainsi587/leedcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/nainsi587/leedcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/nainsi587/leedcode/tree/master/0704-binary-search) |
@@ -23,6 +24,7 @@ DSA question
 | [0001-two-sum](https://github.com/nainsi587/leedcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/nainsi587/leedcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nainsi587/leedcode/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/nainsi587/leedcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +58,7 @@ DSA question
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nainsi587/leedcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/nainsi587/leedcode/tree/master/0217-contains-duplicate) |
 ## Quicksort
 |  |
 | ------- |
