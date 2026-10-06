@@ -18,6 +18,7 @@ DSA question
 | [0189-rotate-array](https://github.com/nainsi587/leedcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/nainsi587/leedcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/nainsi587/leedcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/nainsi587/leedcode/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/nainsi587/leedcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/nainsi587/leedcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nainsi587/leedcode/tree/master/0724-find-pivot-index) |
@@ -35,6 +36,7 @@ DSA question
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nainsi587/leedcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nainsi587/leedcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/nainsi587/leedcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/nainsi587/leedcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -63,6 +65,7 @@ DSA question
 | [0189-rotate-array](https://github.com/nainsi587/leedcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/nainsi587/leedcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nainsi587/leedcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/nainsi587/leedcode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/nainsi587/leedcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nainsi587/leedcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -93,6 +96,7 @@ DSA question
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nainsi587/leedcode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/nainsi587/leedcode/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -150,6 +154,7 @@ DSA question
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nainsi587/leedcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nainsi587/leedcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/nainsi587/leedcode/tree/master/0287-find-the-duplicate-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -171,4 +176,8 @@ DSA question
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nainsi587/leedcode/tree/master/0023-merge-k-sorted-lists) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nainsi587/leedcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
