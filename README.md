@@ -16,6 +16,7 @@ DSA question
 | [0088-merge-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/nainsi587/leedcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nainsi587/leedcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/nainsi587/leedcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nainsi587/leedcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/nainsi587/leedcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/nainsi587/leedcode/tree/master/0283-move-zeroes) |
@@ -31,6 +32,7 @@ DSA question
 | [0141-linked-list-cycle](https://github.com/nainsi587/leedcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nainsi587/leedcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nainsi587/leedcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/nainsi587/leedcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nainsi587/leedcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
@@ -46,6 +48,7 @@ DSA question
 | [0023-merge-k-sorted-lists](https://github.com/nainsi587/leedcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/nainsi587/leedcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/nainsi587/leedcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/nainsi587/leedcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +82,7 @@ DSA question
 | [0075-sort-colors](https://github.com/nainsi587/leedcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/nainsi587/leedcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/nainsi587/leedcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nainsi587/leedcode/tree/master/0217-contains-duplicate) |
 ## Quicksort
 |  |
@@ -182,4 +186,12 @@ DSA question
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nainsi587/leedcode/tree/master/0287-find-the-duplicate-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nainsi587/leedcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nainsi587/leedcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
