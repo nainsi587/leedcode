@@ -1,15 +1,15 @@
 class Solution {
     public int maxProduct(int[] nums) {
-       int lp=1;
-       int rp=1;
-       int ans=nums[0]; 
-       for(int i=0;i<nums.length;i++){
-        lp=lp == 0? 1:lp;
-        rp=rp == 0? 1:rp;
-        lp*=nums[i];
-        rp*=nums[nums.length-1-i];
-        ans=Math.max(ans,Math.max(lp,rp));
-       }
-       return ans;
+      int LP=1;
+      int RP=1;
+      int ans=nums[0];
+      for(int i=0;i<nums.length;i++){
+        LP=LP==0?1:LP;
+        RP=RP==0?1:RP;
+        LP*=nums[i];
+        RP*=nums[nums.length-1-i];
+        ans=Math.max(ans,Math.max(LP,RP));
+      }
+      return ans;
     }
 }
