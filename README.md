@@ -52,6 +52,7 @@ DSA question
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nainsi587/leedcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nainsi587/leedcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nainsi587/leedcode/tree/master/0027-remove-element) |
@@ -75,6 +76,7 @@ DSA question
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nainsi587/leedcode/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/nainsi587/leedcode/tree/master/0058-length-of-last-word) |
 ## Sorting
 |  |
@@ -119,6 +121,7 @@ DSA question
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nainsi587/leedcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/nainsi587/leedcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nainsi587/leedcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/nainsi587/leedcode/tree/master/0152-maximum-product-subarray) |
@@ -203,4 +206,8 @@ DSA question
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/nainsi587/leedcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nainsi587/leedcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
