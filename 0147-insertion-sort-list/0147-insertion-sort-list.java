@@ -39,7 +39,7 @@ class Solution {
                   temp.next=head;
                   head=temp;
             }else{
-                    temp.next=prev.next;//insert at specific position
+                    temp.next=t1;//insert at specific position
                     prev.next=temp;
             }
             //temp at currect position
