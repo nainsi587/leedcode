@@ -78,6 +78,7 @@ DSA question
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nainsi587/leedcode/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/nainsi587/leedcode/tree/master/0058-length-of-last-word) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nainsi587/leedcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -157,6 +158,7 @@ DSA question
 | [0042-trapping-rain-water](https://github.com/nainsi587/leedcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/nainsi587/leedcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/nainsi587/leedcode/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nainsi587/leedcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
