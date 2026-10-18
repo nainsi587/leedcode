@@ -31,6 +31,7 @@ DSA question
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nainsi587/leedcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nainsi587/leedcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/nainsi587/leedcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/nainsi587/leedcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nainsi587/leedcode/tree/master/0142-linked-list-cycle-ii) |
@@ -80,6 +81,7 @@ DSA question
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nainsi587/leedcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/nainsi587/leedcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/nainsi587/leedcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/nainsi587/leedcode/tree/master/0058-length-of-last-word) |
@@ -124,6 +126,7 @@ DSA question
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nainsi587/leedcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/nainsi587/leedcode/tree/master/0643-maximum-average-subarray-i) |
 ## Dynamic Programming
 |  |
