@@ -23,6 +23,7 @@ DSA question
 | [0283-move-zeroes](https://github.com/nainsi587/leedcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nainsi587/leedcode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/nainsi587/leedcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/nainsi587/leedcode/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/nainsi587/leedcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/nainsi587/leedcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nainsi587/leedcode/tree/master/0724-find-pivot-index) |
@@ -164,6 +165,7 @@ DSA question
 | [0143-reorder-list](https://github.com/nainsi587/leedcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/nainsi587/leedcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/nainsi587/leedcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/nainsi587/leedcode/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nainsi587/leedcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -180,6 +182,7 @@ DSA question
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nainsi587/leedcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/nainsi587/leedcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/nainsi587/leedcode/tree/master/0503-next-greater-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
