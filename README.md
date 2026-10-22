@@ -28,6 +28,7 @@ DSA question
 | [0643-maximum-average-subarray-i](https://github.com/nainsi587/leedcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/nainsi587/leedcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nainsi587/leedcode/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/nainsi587/leedcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ DSA question
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nainsi587/leedcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/nainsi587/leedcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/nainsi587/leedcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/nainsi587/leedcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
