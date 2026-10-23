@@ -30,6 +30,7 @@ DSA question
 | [0287-find-the-duplicate-number](https://github.com/nainsi587/leedcode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/nainsi587/leedcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nainsi587/leedcode/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/nainsi587/leedcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/nainsi587/leedcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nainsi587/leedcode/tree/master/0724-find-pivot-index) |
@@ -58,6 +59,7 @@ DSA question
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nainsi587/leedcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/nainsi587/leedcode/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/nainsi587/leedcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nainsi587/leedcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
