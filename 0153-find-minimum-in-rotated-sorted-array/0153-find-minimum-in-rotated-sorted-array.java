@@ -10,6 +10,7 @@ class Solution {
                 ans=Math.min(ans,nums[low]);
                 low=mid+1;
             }else{
+                ans=Math.min(ans,nums[mid]);
                 high=mid;
             }
         }
