@@ -1,17 +1,12 @@
 class Solution {
     public int mySqrt(int x) {
-        if(x<=2){
-            return x==2?1:x;
+        if(x<2){
+            return x;
         }
-        for(int i=1;i<x;i++){
-            if((long)i*i==x){
-                return i;
-            }else if((long)i*i>x){
-                return i-1;
-            }
+        long r=x;
+        while(r*r>x){
+            r=(r+x/r)/2;
         }
-        return 0;
+        return (int)r;
     }
 }
-            
-        
