@@ -21,7 +21,7 @@ class Solution {
     public int totalsum(int nums[],int number){
         int sum=0;
         for(int i=0;i<nums.length;i++){
-           sum += Math.ceil((double) nums[i] / number);
+           sum += (nums[i]+number-1)/number;
         }
             
        return sum;
