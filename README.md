@@ -35,6 +35,7 @@ DSA question
 | [0704-binary-search](https://github.com/nainsi587/leedcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nainsi587/leedcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nainsi587/leedcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/nainsi587/leedcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ DSA question
 | [0540-single-element-in-a-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/nainsi587/leedcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nainsi587/leedcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/nainsi587/leedcode/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
