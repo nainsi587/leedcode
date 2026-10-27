@@ -22,13 +22,13 @@ class Solution {
             int mid=low+(high-low)/2;
             int totalH=calculatetotalH(piles,mid);
             if(totalH<=h){
-                ans=mid;
+                //ans=mid;
                 high=mid-1;
             }else{
                 low=mid+1;
             }
         }
-        return ans;
+        return low;
 
     }
 }
