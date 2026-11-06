@@ -24,8 +24,8 @@ class Solution {
        int high=sum;
        while(low<=high){
         int mid=low+(high-low)/2;
-        int noofday=reqday(weights,mid);
-        if(noofday<=days){
+        int day=reqday(weights,mid);
+        if(day<=days){
             high=mid-1;
         }else{
             low=mid+1;
