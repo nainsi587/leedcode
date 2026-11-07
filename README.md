@@ -198,6 +198,7 @@ DSA question
 | [0071-simplify-path](https://github.com/nainsi587/leedcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nainsi587/leedcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/nainsi587/leedcode/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/nainsi587/leedcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nainsi587/leedcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/nainsi587/leedcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/nainsi587/leedcode/tree/master/0496-next-greater-element-i) |
@@ -207,6 +208,7 @@ DSA question
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/nainsi587/leedcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nainsi587/leedcode/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/nainsi587/leedcode/tree/master/0707-design-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -287,5 +289,6 @@ DSA question
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/nainsi587/leedcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nainsi587/leedcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
