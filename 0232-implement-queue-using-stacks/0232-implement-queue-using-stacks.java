@@ -16,7 +16,7 @@ class MyQueue {
     }
     
     public int pop() {
-        while(s1.isEmpty()){
+        if(s1.isEmpty()){
             System.out.println("queue empty");
             return -1;
         }
@@ -24,7 +24,7 @@ class MyQueue {
     }
     
     public int peek() {
-         while(s1.isEmpty()){
+         if(s1.isEmpty()){
             System.out.println("queue empty");
             return -1;
         }
