@@ -116,6 +116,7 @@ DSA question
 | [0014-longest-common-prefix](https://github.com/nainsi587/leedcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nainsi587/leedcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/nainsi587/leedcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/nainsi587/leedcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/nainsi587/leedcode/tree/master/0071-simplify-path) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nainsi587/leedcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
@@ -140,12 +141,14 @@ DSA question
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nainsi587/leedcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/nainsi587/leedcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nainsi587/leedcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/nainsi587/leedcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/nainsi587/leedcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nainsi587/leedcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/nainsi587/leedcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/nainsi587/leedcode/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
@@ -283,6 +286,7 @@ DSA question
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nainsi587/leedcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/nainsi587/leedcode/tree/master/0067-add-binary) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
