@@ -8,6 +8,7 @@ DSA question
 | ------- |
 | [0001-two-sum](https://github.com/nainsi587/leedcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nainsi587/leedcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/nainsi587/leedcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nainsi587/leedcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -112,6 +113,7 @@ DSA question
 | [0003-longest-substring-without-repeating-characters](https://github.com/nainsi587/leedcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/nainsi587/leedcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/nainsi587/leedcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/nainsi587/leedcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nainsi587/leedcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/nainsi587/leedcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/nainsi587/leedcode/tree/master/0071-simplify-path) |
@@ -294,4 +296,8 @@ DSA question
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nainsi587/leedcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nainsi587/leedcode/tree/master/0232-implement-queue-using-stacks) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nainsi587/leedcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
