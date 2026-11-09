@@ -46,6 +46,7 @@ DSA question
 | ------- |
 | [0001-two-sum](https://github.com/nainsi587/leedcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nainsi587/leedcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/nainsi587/leedcode/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/nainsi587/leedcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/nainsi587/leedcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nainsi587/leedcode/tree/master/0142-linked-list-cycle-ii) |
@@ -110,6 +111,7 @@ DSA question
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nainsi587/leedcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/nainsi587/leedcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/nainsi587/leedcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/nainsi587/leedcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/nainsi587/leedcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/nainsi587/leedcode/tree/master/0071-simplify-path) |
@@ -135,6 +137,7 @@ DSA question
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nainsi587/leedcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/nainsi587/leedcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/nainsi587/leedcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/nainsi587/leedcode/tree/master/0231-power-of-two) |
