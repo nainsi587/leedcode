@@ -96,6 +96,7 @@ DSA question
 | [0075-sort-colors](https://github.com/nainsi587/leedcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/nainsi587/leedcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/nainsi587/leedcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nainsi587/leedcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nainsi587/leedcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/nainsi587/leedcode/tree/master/0143-reorder-list) |
@@ -123,6 +124,7 @@ DSA question
 | [0058-length-of-last-word](https://github.com/nainsi587/leedcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/nainsi587/leedcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/nainsi587/leedcode/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/nainsi587/leedcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nainsi587/leedcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nainsi587/leedcode/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nainsi587/leedcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
