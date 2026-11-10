@@ -99,6 +99,7 @@ DSA question
 | [0142-linked-list-cycle-ii](https://github.com/nainsi587/leedcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/nainsi587/leedcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/nainsi587/leedcode/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/nainsi587/leedcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nainsi587/leedcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nainsi587/leedcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nainsi587/leedcode/tree/master/0189-rotate-array) |
@@ -119,6 +120,7 @@ DSA question
 | [0058-length-of-last-word](https://github.com/nainsi587/leedcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/nainsi587/leedcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/nainsi587/leedcode/tree/master/0071-simplify-path) |
+| [0151-reverse-words-in-a-string](https://github.com/nainsi587/leedcode/tree/master/0151-reverse-words-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nainsi587/leedcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
