@@ -59,6 +59,7 @@ DSA question
 | [0169-majority-element](https://github.com/nainsi587/leedcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/nainsi587/leedcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/nainsi587/leedcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nainsi587/leedcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/nainsi587/leedcode/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
@@ -130,6 +131,7 @@ DSA question
 | [0071-simplify-path](https://github.com/nainsi587/leedcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/nainsi587/leedcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nainsi587/leedcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/nainsi587/leedcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nainsi587/leedcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/nainsi587/leedcode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/nainsi587/leedcode/tree/master/0796-rotate-string) |
@@ -143,6 +145,7 @@ DSA question
 | [0148-sort-list](https://github.com/nainsi587/leedcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nainsi587/leedcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nainsi587/leedcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nainsi587/leedcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/nainsi587/leedcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
