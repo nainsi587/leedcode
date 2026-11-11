@@ -4,6 +4,9 @@ class Solution {
         return false;
        }
        String str=s+s;
-       return str.contains(goal);
+       if(!str.contains(goal)){
+        return false;
+       }
+       return true;
     }
 }
