@@ -129,6 +129,7 @@ DSA question
 | [0125-valid-palindrome](https://github.com/nainsi587/leedcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nainsi587/leedcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nainsi587/leedcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/nainsi587/leedcode/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nainsi587/leedcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
@@ -158,6 +159,7 @@ DSA question
 | [0189-rotate-array](https://github.com/nainsi587/leedcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nainsi587/leedcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/nainsi587/leedcode/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/nainsi587/leedcode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -301,6 +303,7 @@ DSA question
 | ------- |
 | [0054-spiral-matrix](https://github.com/nainsi587/leedcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/nainsi587/leedcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/nainsi587/leedcode/tree/master/0412-fizz-buzz) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
