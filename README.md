@@ -30,6 +30,7 @@ DSA question
 | [0217-contains-duplicate](https://github.com/nainsi587/leedcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/nainsi587/leedcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nainsi587/leedcode/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/nainsi587/leedcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/nainsi587/leedcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nainsi587/leedcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -140,6 +141,7 @@ DSA question
 | [0148-sort-list](https://github.com/nainsi587/leedcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nainsi587/leedcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nainsi587/leedcode/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/nainsi587/leedcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
