@@ -131,6 +131,7 @@ DSA question
 | [0151-reverse-words-in-a-string](https://github.com/nainsi587/leedcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/nainsi587/leedcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/nainsi587/leedcode/tree/master/0412-fizz-buzz) |
+| [0796-rotate-string](https://github.com/nainsi587/leedcode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nainsi587/leedcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
@@ -324,4 +325,8 @@ DSA question
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nainsi587/leedcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/nainsi587/leedcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
