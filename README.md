@@ -160,6 +160,7 @@ DSA question
 | [0202-happy-number](https://github.com/nainsi587/leedcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/nainsi587/leedcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/nainsi587/leedcode/tree/master/0412-fizz-buzz) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/nainsi587/leedcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
 |  |
 | ------- |
