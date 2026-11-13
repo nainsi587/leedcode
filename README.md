@@ -32,6 +32,7 @@ DSA question
 | [0287-find-the-duplicate-number](https://github.com/nainsi587/leedcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/nainsi587/leedcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/nainsi587/leedcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nainsi587/leedcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/nainsi587/leedcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/nainsi587/leedcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nainsi587/leedcode/tree/master/0503-next-greater-element-ii) |
@@ -149,6 +150,7 @@ DSA question
 | [0242-valid-anagram](https://github.com/nainsi587/leedcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/nainsi587/leedcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/nainsi587/leedcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nainsi587/leedcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0977-squares-of-a-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
@@ -340,4 +342,5 @@ DSA question
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/nainsi587/leedcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nainsi587/leedcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
