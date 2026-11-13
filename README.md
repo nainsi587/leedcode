@@ -31,6 +31,7 @@ DSA question
 | [0283-move-zeroes](https://github.com/nainsi587/leedcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nainsi587/leedcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/nainsi587/leedcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/nainsi587/leedcode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/nainsi587/leedcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/nainsi587/leedcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/nainsi587/leedcode/tree/master/0503-next-greater-element-ii) |
@@ -147,6 +148,7 @@ DSA question
 | [0217-contains-duplicate](https://github.com/nainsi587/leedcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nainsi587/leedcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/nainsi587/leedcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/nainsi587/leedcode/tree/master/0435-non-overlapping-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
@@ -196,6 +198,7 @@ DSA question
 | [0042-trapping-rain-water](https://github.com/nainsi587/leedcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nainsi587/leedcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/nainsi587/leedcode/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/nainsi587/leedcode/tree/master/0435-non-overlapping-intervals) |
 ## Linked List
 |  |
 | ------- |
@@ -333,4 +336,8 @@ DSA question
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/nainsi587/leedcode/tree/master/0796-rotate-string) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/nainsi587/leedcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
