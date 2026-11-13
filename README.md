@@ -38,6 +38,7 @@ DSA question
 | [0503-next-greater-element-ii](https://github.com/nainsi587/leedcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/nainsi587/leedcode/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/nainsi587/leedcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/nainsi587/leedcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nainsi587/leedcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/nainsi587/leedcode/tree/master/0739-daily-temperatures) |
@@ -151,6 +152,7 @@ DSA question
 | [0414-third-maximum-number](https://github.com/nainsi587/leedcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/nainsi587/leedcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nainsi587/leedcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0646-maximum-length-of-pair-chain](https://github.com/nainsi587/leedcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0977-squares-of-a-sorted-array](https://github.com/nainsi587/leedcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
@@ -201,6 +203,7 @@ DSA question
 | [0053-maximum-subarray](https://github.com/nainsi587/leedcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/nainsi587/leedcode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/nainsi587/leedcode/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/nainsi587/leedcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Linked List
 |  |
 | ------- |
@@ -343,4 +346,9 @@ DSA question
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/nainsi587/leedcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nainsi587/leedcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0646-maximum-length-of-pair-chain](https://github.com/nainsi587/leedcode/tree/master/0646-maximum-length-of-pair-chain) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/nainsi587/leedcode/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
