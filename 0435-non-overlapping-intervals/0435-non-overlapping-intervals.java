@@ -4,10 +4,11 @@ class Solution {
        int NonOp=0;
        int lastend=intervals[0][1];
        for(int i=1;i<intervals.length;i++){
-        if(intervals[i][0]>=lastend){
-            lastend=intervals[i][1];
-        }else{
+        if(intervals[i][0]<lastend){
             NonOp++;
+        }else{
+           
+             lastend=intervals[i][1];
         }
        }
        return NonOp;
