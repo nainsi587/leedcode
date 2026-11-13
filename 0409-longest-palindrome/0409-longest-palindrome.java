@@ -4,9 +4,8 @@ class Solution {
            return 1;
         }
         
-        if(s.length()<1){
-            return 0;
-        }
+        
+        
         HashMap<Character,Integer>map=new HashMap<>();
         
         for(int i=0;i<s.length();i++){
