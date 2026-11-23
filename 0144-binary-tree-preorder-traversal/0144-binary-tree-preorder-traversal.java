@@ -25,8 +25,8 @@ class Solution {
             return;
         }
         ans.add(root.val);
-        preorderTraversal(root.left);
-        preorderTraversal(root.right);
+        preorder(root.left);
+        preorder(root.right);
         
     }
   
