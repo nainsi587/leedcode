@@ -15,29 +15,19 @@
  */
 class Solution {
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
-       if(root==null){
-          return false;
-       }
-        if(root.val==subRoot.val){
-            if(identical(root,subRoot)){
-                return true;
-            }
-        }
-        return isSubtree(root.left,subRoot)||isSubtree(root.right,subRoot);
+        String fulltree=preorder(root);
+        String subtree=preorder(subRoot);
+        return fulltree.contains(subtree);
     }
-    public boolean identical(TreeNode node,TreeNode subRoot){
-        if(node==null && subRoot==null){
-            return true;
-        }else if(node==null || subRoot==null || node.val!=subRoot.val){
-            return false;
+    public String preorder(TreeNode node){
+        if(node==null){
+            return null;
         }
-        if(!identical(node.left,subRoot.left)){
-            return false;
-        }
-        if(!identical(node.right,subRoot.right)){
-            return false;
-        }
-        return true;
-        
+        StringBuilder sb=new StringBuilder("^");
+        sb.append(node.val);
+        sb.append(preorder(node.left));
+        sb.append(preorder(node.right));
+        return sb.toString();
     }
+    
 }
